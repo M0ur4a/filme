@@ -20,7 +20,7 @@
         </div>
 
         <div>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/W8a04MBJh3g"
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/sr2x8mo1qzQ"
                 title="Meu Malvado Favorito" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -30,13 +30,24 @@
     <section class="categoria">
         <h2>Filmes e séries</h2>
         <div class="categoria-videos">
-            <a href="https://www.youtube.com/watch?v=cs15QqG6Gjc">
-                <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=sr2x8mo1qzQ">
+                <img src="https://img.youtube.com/vi/sr2x8mo1qzQ/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=nCmIwcycUJ8">
-                <img src="https://img.youtube.com/vi/nCmIwcycUJ8/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=TTy5pZ9vWNE">
+                <img src="https://img.youtube.com/vi/TTy5pZ9vWNE/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=FvRmEapoHRc">
-                <img src="https://img.youtube.com/vi/FvRmEapoHRc/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=J6ED18k5YHk">
+                <img src="https://img.youtube.com/vi/J6ED18k5YHk/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=Ipkw_hWW-Hw">
+            <a href="https://www.youtube.com/watch?v=kNGNLo8K6Fk">
+                <img src="https://img.youtube.com/vi/kNGNLo8K6Fk/maxresdefault.jpg" />
+            </a>
+            <a href="https://www.youtube.com/watch?v=NMDmCWeojZk">
+                <img src="https://img.youtube.com/vi/NMDmCWeojZk/maxresdefault.jpg" />
+            </a>
+        </div>
+    </section>
+
+</body>
+
+</html>
